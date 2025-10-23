@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Ivan Zamurenko!
 
-<!--
-**ivan-zamurenko/Ivan-Zamurenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Data Engineer & Analyst | Python Enthusiast | SQL Explorer
 
-Here are some ideas to get you started:
+🇧🇷 Currently building: **Delivery Food Center in Brazil**
+- Data engineering, analytics, and business insights for a real-world food delivery platform
+- Clean, reproducible code and professional project structure
+- Focused on advanced SQL, pandas, and automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 What I love:
+- Turning raw data into actionable insights
+- Designing robust, testable pipelines
+- Sharing knowledge and collaborating on open-source
+
+🛠️ Tech Stack:
+- Python (pandas, SQLAlchemy, matplotlib)
+- PostgreSQL & SQL
+- GitHub Actions CI
+- Conda, Docker, and more
+
+📈 Latest Project:
+[Delivery Food Center in Brazil](https://github.com/Ivan-Zamurenko/Delivery-Food-Center-in-Brazil)  
+> 🚚 Data analysis, business intelligence, and reproducible workflows for food delivery
+
+---
+
+🌱 Always learning, always building.  
+🤝 Open to collaboration and new opportunities!
