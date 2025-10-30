@@ -2,7 +2,7 @@
 
 This portfolio showcases my Data Science and Analytics projects focused on business intelligence, data engineering, and statistical analysis. All projects emphasize production-ready code, rigorous testing, and actionable insights. Updated regularly with new work.
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **Email**: [ivan.zamurenko.ds@gmail.com](mailto:ivan.zamurenko.ds@gmail.com)
 - **LinkedIn**: [linkedin.com/in/ivan-zamurenko](https://www.linkedin.com/in/ivan-zamurenko/)
 - **GitHub**: [github.com/ivan-zamurenko](https://github.com/ivan-zamurenko)
 
@@ -67,11 +67,7 @@ Production-grade analytics system processing **1.1M+ records** across 7 relation
 
 ## 📚 Education & Certifications
 
-- **[Your Degree]** - [University Name], [Year]
-- **[Relevant Certification]** - [Issuing Organization], [Year]
-- **[Another Certification]** - [Platform], [Year]
-
-*Add your actual education and certifications here*
+- **[Master Degree with Honours]** - [Kherson National Technical University], [2014]
 
 ## 📫 Let's Connect
 
