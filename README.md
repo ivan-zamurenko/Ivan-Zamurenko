@@ -26,19 +26,40 @@ This portfolio showcases my Data Science and Analytics projects focused on busin
 
 ## 📊 Featured Projects
 
-<img align="left" width="250" height="150" src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400"> **[BikeStore Business Intelligence Dashboard](https://github.com/ivan-zamurenko/bike-store)**
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400" width="100%">
+
+**[BikeStore Business Intelligence Dashboard](https://github.com/ivan-zamurenko/bike-store)**
+
+> **🛠️ Tech Stack:** **`PostgreSQL`** • **`SQL`** • **`Excel Advanced`** • **`Tableau`** • **`Pivot Tables`** • **`Dashboard Design`** • **`Business Intelligence`**
 
 End-to-end analytics solution transforming retail sales data into interactive **Tableau dashboards** and **Excel pivot tables**. Built normalized PostgreSQL database with 8 tables, developed complex SQL analytics queries, and created dynamic visualizations tracking revenue trends across temporal, geographical, and product dimensions. Delivered 85% reporting efficiency improvement.
 
-**Tech Stack:** PostgreSQL • SQL • Excel Advanced • Tableau • Pivot Tables • Dashboard Design • Business Intelligence
+</td>
+<td width="50%">
 
-<br clear="left"/>
+<img src="https://images.unsplash.com/photo-1526367790999-0150786686a2?w=400" width="100%">
 
-<img align="left" width="250" height="150" src="https://images.unsplash.com/photo-1526367790999-0150786686a2?w=400"> **[Food Delivery Analytics Platform - Brazil Market](https://github.com/ivan-zamurenko/Delivery-Food-Center-in-Brazil)**
+**[Food Delivery Analytics Platform - Brazil Market](https://github.com/ivan-zamurenko/Delivery-Food-Center-in-Brazil)**
+
+> **🛠️ Tech Stack:** **`Python`** • **`PostgreSQL`** • **`pandas`** • **`SQLAlchemy`** • **`Statistical Analysis`** • **`ETL Design`**
 
 Production-grade analytics system processing **1.1M+ records** across 7 relational tables for a Brazilian food delivery marketplace. Delivered actionable insights including R$43M revenue analysis, 19.9% delivery optimization, and anomaly detection across 367K orders. Fixed critical data loss bug improving retention from 5% to 99.8%.
 
-**Tech Stack:** Python • PostgreSQL • pandas • SQLAlchemy • Statistical Analysis • ETL Design
+</td>
+</tr>
+</table>
+
+<img align="left" width="250" height="150" src="https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=400"> **[Global Country Information Dataset 2023 - Exploratory Data Analysis](https://github.com/ivan-zamurenko/Global-Country-Information-Dataset-2023)**
+
+> **🛠️ Tech Stack:** **`Python`** • **`pandas`** • **`matplotlib`** • **`seaborn`** • **`Feature Engineering`** • **`Data Visualization`** • **`Statistical Analysis`** • **`Jupyter`**
+
+Comprehensive **exploratory data analysis** of 196 countries with 35 socioeconomic indicators. Built advanced feature engineering pipeline including outlier detection, regional economic analysis, and multi-dimensional visualizations. Created employment resilience analysis across economic conditions and developed spider charts for health/environmental performance comparisons.
+
+<br clear="left"/>
 
 ## 💼 Technical Projects
 
@@ -81,9 +102,10 @@ Production-grade analytics system processing **1.1M+ records** across 7 relation
 - **Business Intelligence**: **Tableau** (Interactive Dashboards, Dynamic Filtering, Visual Storytelling), **Excel Advanced** (Pivot Tables, Power Query, SQL Connections), Dashboard Design, KPI Development
 - **Database & SQL**: **PostgreSQL**, **MySQL**, Complex Queries, Multi-table Joins, Database Design, Foreign Keys, Performance Optimization
 - **Data Analytics**: Statistical Analysis, Trend Analysis, Revenue Analytics, Customer Segmentation, Time Series Analysis, Anomaly Detection
-- **Programming**: **Python** (pandas, NumPy, SQLAlchemy, pytest, seaborn, matplotlib), **SQL**, Git/GitHub
-- **Tools & Platforms**: PostgreSQL, Tableau, Excel, Jupyter, VS Code, Git, Conda, pytest, Makefile, CI/CD
-- **Methodologies**: ETL Design, Data Quality Engineering, A/B Testing, Business Intelligence, Geospatial Analysis, Statistical Visualization
+- **Programming**: **Python** (pandas, NumPy, SQLAlchemy, pytest, seaborn, matplotlib, scikit-learn), **SQL**, Git/GitHub
+- **Data Science**: **Feature Engineering**, **Exploratory Data Analysis**, **Statistical Modeling**, **Data Visualization**, **Outlier Detection**, **Spider Charts**, **Heatmaps**
+- **Tools & Platforms**: PostgreSQL, Tableau, Excel, **Jupyter Notebooks**, VS Code, Git, Conda, pytest, Makefile, CI/CD
+- **Methodologies**: ETL Design, Data Quality Engineering, A/B Testing, Business Intelligence, Geospatial Analysis, **Multi-dimensional Analysis**, **Regional Comparative Studies**
 
 ## 📚 Education & Certifications
 
