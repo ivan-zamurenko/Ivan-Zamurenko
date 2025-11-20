@@ -1,5 +1,12 @@
 # Data Science Portfolio - Ivan Zamurenko
 
+[![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange?style=flat-square&logo=tableau)](https://tableau.com/)
+[![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue?style=flat-square&logo=postgresql)](https://postgresql.org/)
+[![Excel](https://img.shields.io/badge/Excel-Advanced-green?style=flat-square&logo=microsoft-excel)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![Python](https://img.shields.io/badge/Python-Analytics-yellow?style=flat-square&logo=python)](https://python.org/)
+[![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-red?style=flat-square)](#)
+[![Data Analysis](https://img.shields.io/badge/Data-Analysis-purple?style=flat-square)](#)
+
 This portfolio showcases my Data Science and Analytics projects focused on business intelligence, data engineering, and statistical analysis. All projects emphasize production-ready code, rigorous testing, and actionable insights. Updated regularly with new work.
 
 - **Email**: [ivan.zamurenko.ds@gmail.com](mailto:ivan.zamurenko.ds@gmail.com)
@@ -8,6 +15,9 @@ This portfolio showcases my Data Science and Analytics projects focused on busin
 
 ## 🏆 Achievements
 
+- Built interactive **Tableau dashboards** with dynamic filtering achieving 85% reporting efficiency gain
+- Designed normalized **PostgreSQL database** with 8 tables and complex SQL analytics queries
+- Created advanced **Excel pivot tables** with real-time SQL connections for stakeholder reporting
 - Developed production-grade ETL pipeline processing 1.1M+ records with 99.8% data retention
 - Identified R$43M revenue optimization opportunities through statistical analysis
 - Built anomaly detection system discovering 8 critical payment trend deviations
@@ -15,6 +25,14 @@ This portfolio showcases my Data Science and Analytics projects focused on busin
 - Published data-driven insights supporting strategic hub expansion decisions
 
 ## 📊 Featured Projects
+
+<img align="left" width="250" height="150" src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400"> **[BikeStore Business Intelligence Dashboard](https://github.com/ivan-zamurenko/bike-store)**
+
+End-to-end analytics solution transforming retail sales data into interactive **Tableau dashboards** and **Excel pivot tables**. Built normalized PostgreSQL database with 8 tables, developed complex SQL analytics queries, and created dynamic visualizations tracking revenue trends across temporal, geographical, and product dimensions. Delivered 85% reporting efficiency improvement.
+
+**Tech Stack:** PostgreSQL • SQL • Excel Advanced • Tableau • Pivot Tables • Dashboard Design • Business Intelligence
+
+<br clear="left"/>
 
 <img align="left" width="250" height="150" src="https://images.unsplash.com/photo-1526367790999-0150786686a2?w=400"> **[Food Delivery Analytics Platform - Brazil Market](https://github.com/ivan-zamurenko/Delivery-Food-Center-in-Brazil)**
 
@@ -60,10 +78,12 @@ Production-grade analytics system processing **1.1M+ records** across 7 relation
 
 ## 🛠️ Core Competencies
 
-- **Methodologies**: Statistical Analysis, Anomaly Detection, Time Series Analysis, ETL Design, Data Quality Engineering, A/B Testing, Business Intelligence, Geospatial Analysis
-- **Languages**: Python (pandas, NumPy, SQLAlchemy, pytest, seaborn, matplotlib), SQL (PostgreSQL, MySQL), Git/GitHub
-- **Tools**: PostgreSQL, Jupyter, VS Code, Git, Conda, pytest, Makefile, CI/CD
-- **Specialties**: Production ETL pipelines, Data validation frameworks, Statistical visualization, Business metrics analysis
+- **Business Intelligence**: **Tableau** (Interactive Dashboards, Dynamic Filtering, Visual Storytelling), **Excel Advanced** (Pivot Tables, Power Query, SQL Connections), Dashboard Design, KPI Development
+- **Database & SQL**: **PostgreSQL**, **MySQL**, Complex Queries, Multi-table Joins, Database Design, Foreign Keys, Performance Optimization
+- **Data Analytics**: Statistical Analysis, Trend Analysis, Revenue Analytics, Customer Segmentation, Time Series Analysis, Anomaly Detection
+- **Programming**: **Python** (pandas, NumPy, SQLAlchemy, pytest, seaborn, matplotlib), **SQL**, Git/GitHub
+- **Tools & Platforms**: PostgreSQL, Tableau, Excel, Jupyter, VS Code, Git, Conda, pytest, Makefile, CI/CD
+- **Methodologies**: ETL Design, Data Quality Engineering, A/B Testing, Business Intelligence, Geospatial Analysis, Statistical Visualization
 
 ## 📚 Education & Certifications
 
