@@ -1,37 +1,69 @@
-# Ivan Zamurenko
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/wordmark-dark.svg">
+  <img src="assets/wordmark-light.svg" width="100%" alt="Ivan Zamurenko">
+</picture>
 
-**Full-stack development · Web applications & workflow automation**
+<p align="center"><strong>Full-stack development &amp; product engineering</strong></p>
+<p align="center">Tralee, Ireland · Open to remote opportunities</p>
+<p align="center"><a href="https://www.linkedin.com/in/ivan-zamurenko/">LinkedIn</a> &nbsp; / &nbsp; <a href="#selected-work">Selected work</a></p>
 
-I'm a developer based in Tralee, Ireland. I work with JavaScript, TypeScript, Python and SQL, building web applications and tools for repetitive workflows. I'm looking for a remote Full-stack or Product Engineer role with a team hiring in Ireland.
+I build web applications and tools for work that still involves too many manual steps. My projects range from logistics automation to software for handstand training. I work across Python, JavaScript, TypeScript and SQL, with an interest in both the interface and the decisions behind it.
 
-My projects cover browser extensions, training software and data processing. I enjoy working through the details between an interface and the services behind it: checking inputs, handling failures and making the next step clear to the person using the tool.
+Below are three projects that show different parts of that work: handling uncertain outcomes, building an application from its foundations, and turning structured data into something useful.
 
 ## Selected work
 
-### [Logistics workflow automation](https://github.com/ivan-zamurenko/gmail-ai-assistant)
+### 01 / Logistics workflow automation
 
-A Chrome extension and supporting tools for parcel-processing workflows. The repository includes barcode scanning, service integrations and tests around retries, cancellation and uncertain write outcomes. These are useful cases to get right when an interrupted request could otherwise lead to a repeated action.
+**JavaScript · Chrome Manifest V3 · Node.js**
 
-**JavaScript · Chrome Manifest V3 · Node.js**  
-The project has evolved beyond its original Gmail-focused name. AI-assisted features remain planned work.
+<p align="center"><a href="assets/logistics-automation.png"><img src="assets/logistics-automation.png" width="320" alt="Logistics extension popup showing Future Dates, Idle status, Dry Run enabled, and scan controls. No account data is displayed."></a></p>
+<p align="center"><sub>EXTENSION INTERFACE · IDLE STATE · RENDERED LOCALLY</sub></p>
 
-### Handbalancer's Studio
+A Chrome extension and supporting tools for parcel-processing workflows. The project brings together barcode scanning, browser interactions and service integrations to reduce repetitive steps in handling shipments.
 
-I'm building a web application for handstand training. The current build includes public pages, account flows, a responsive Ukrainian/English interface, and light and dark themes. It combines a Python backend and PostgreSQL with server-rendered pages and vanilla JavaScript.
+The interesting engineering problem is what happens when an action does not finish cleanly. An interrupted request can leave a write's outcome uncertain; immediately trying again may repeat an action. The repository includes tests for bounded retries, cancellation and uncertain writes. Those cases are a useful window into how the project handles failure.
 
-**Python · FastAPI · PostgreSQL · JavaScript**  
-In active development; source code is private. Training workflows and subscriptions are planned features.
+The code has evolved beyond its original Gmail-focused name. AI-assisted features remain planned work.
 
-### [Handstand programme generator](https://github.com/ivan-zamurenko/handstand-course-generator)
+[Explore the repository →](https://github.com/ivan-zamurenko/gmail-ai-assistant)
 
-A Python command-line tool that turns exercise definitions and programme templates into a training PDF. The repository includes the generator, an example document and unit tests. It is a small project with a tangible output that can be inspected alongside the code.
+---
+
+### 02 / Handbalancer’s Studio
+
+**Python · FastAPI · PostgreSQL · Jinja · JavaScript**
+
+<a href="assets/studio-home.png"><img src="assets/studio-home.png" width="100%" alt="Handbalancer’s Studio: the current English homepage, with a responsive navigation bar and the headline Move more freely. Feel better."></a>
+<p align="center"><sub>HANDBALANCER’S STUDIO · CURRENT BUILD · SOURCE PRIVATE</sub></p>
+
+A web application I'm building for handstand training. The aim is to bring programmes, practice and coaching into one place. The current work establishes the foundation: public pages, account flows, and a responsive interface in Ukrainian and English, with light and dark themes.
+
+The application uses a Python backend, PostgreSQL and server-rendered pages with vanilla JavaScript. That gives me one project in which to work on database changes, backend behaviour and the details someone actually sees: navigation on a small screen, form feedback and loading states.
+
+Recent work has focused on mobile navigation and account screens. Training workflows and subscriptions are planned features, and some authentication checks still depend on the external environment. The application is in development; its source code is private. The screenshot above shows the current public-facing homepage, captured locally.
+
+---
+
+### 03 / Handstand programme generator
 
 **Python · ReportLab**
 
+<p align="center"><a href="assets/programme-generator.png"><img src="assets/programme-generator.png" width="320" alt="Cover of the programme generator’s actual example PDF: Handstand Test, 5-Day Program."></a></p>
+<p align="center"><sub>PROGRAMME GENERATOR · EXAMPLE PDF COVER</sub></p>
+
+A command-line tool that turns exercise definitions and programme templates into a training PDF. It connects structured exercise data with a document that can be read away from the application.
+
+The repository contains the generator, an example PDF and unit tests. It is a smaller project than Studio, with a clear input and output, and offers a straightforward way to inspect the Python code alongside what it produces.
+
+[Explore the repository →](https://github.com/ivan-zamurenko/handstand-course-generator)
+
 ## Working with data
 
-My SQL and analytics background also informs my application work. [Food delivery analysis](https://github.com/ivan-zamurenko/Delivery-Food-Center-in-Brazil) is an additional example of Python data processing and PostgreSQL work.
+SQL and data analysis are also part of my background. My [food delivery analysis project](https://github.com/ivan-zamurenko/Delivery-Food-Center-in-Brazil) includes Python data processing and PostgreSQL work. It complements the application projects with examples of querying, transforming and checking data.
 
-## Get in touch
+## Let's talk
 
-For full-stack development and product engineering opportunities, contact me on [LinkedIn](https://www.linkedin.com/in/ivan-zamurenko/).
+I'm looking for a remote **Full-stack or Product Engineer** role with a team hiring in Ireland. If these projects are relevant to what you're building, I'd be glad to talk through the code and the decisions behind it.
+
+[Get in touch on LinkedIn →](https://www.linkedin.com/in/ivan-zamurenko/)
