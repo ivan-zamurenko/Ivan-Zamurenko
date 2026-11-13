@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+<title id="title">Ivan Zamurenko</title>
+<desc id="desc">A serif wordmark framed by fine lines, in warm ivory and burgundy.</desc>
+<rect width="1200" height="260" fill="#f7f3ec"/>
+<path d="M56 32H566 M634 32H1144 M56 228H1144" fill="none" stroke="#c9b797" stroke-width="1.5"/>
+<path d="M600 23L609 32L600 41L591 32Z" fill="none" stroke="#c9b797" stroke-width="1.5"/>
+<text x="600" y="160" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="92" letter-spacing="-2" fill="#632e3b">Ivan Zamurenko</text>
+</svg>
