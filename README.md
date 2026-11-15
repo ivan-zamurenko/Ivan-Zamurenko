@@ -7,9 +7,9 @@
 <p align="center">Tralee, Ireland · Open to remote opportunities</p>
 <p align="center"><a href="https://www.linkedin.com/in/ivan-zamurenko/">LinkedIn</a></p>
 <p align="center">
-  <a href="#dpd-assistance"><img src="assets/icons/logistics.svg" width="16" height="16" alt=""> DPD Assistance</a> &nbsp; · &nbsp;
-  <a href="#handbalancers-studio"><img src="assets/icons/studio.svg" width="16" height="16" alt=""> Handbalancer’s Studio</a> &nbsp; · &nbsp;
-  <a href="#food-delivery-analytics"><img src="assets/icons/analytics.svg" width="16" height="16" alt=""> Food Delivery Analytics</a>
+  <a href="#-dpd-assistance"><img src="assets/icons/logistics.svg" width="16" height="16" alt=""> DPD Assistance</a> &nbsp; · &nbsp;
+  <a href="#-handbalancers-studio"><img src="assets/icons/studio.svg" width="16" height="16" alt=""> Handbalancer’s Studio</a> &nbsp; · &nbsp;
+  <a href="#-food-delivery-analytics"><img src="assets/icons/analytics.svg" width="16" height="16" alt=""> Food Delivery Analytics</a>
 </p>
 
 I build web applications and tools for work that still involves too many manual steps. My projects cover logistics automation, software for handstand training and operational data analysis. I work across Python, JavaScript, TypeScript and SQL, with an interest in both the interface and the decisions behind it.
